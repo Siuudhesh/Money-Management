@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center" class="dotted">
-    <a href="https://money-managerapp.vercel.app">Money Manager</a>
+    <a href="https://money-managerapp.vercel.app">Budget Buddy</a>
   
 <p align="center">
 
@@ -27,12 +27,11 @@
 
 </h1>
 
-Welcome to Money Manager, your digital financial assistant! Streamline personal finance with ease using Django and MySQL for effective budgeting and expense tracking.
+Welcome to Budget Buddy, your digital financial assistant! Streamline personal finance with ease using Django and MySQL for effective budgeting and expense tracking.
 
 # Live Demo 👇:
 
 (Deploy On Vercel.com)
-https://money-managerapp.vercel.app
 
 <br>
 
