@@ -1,2 +1,2 @@
-email = ""
-password = ""
+email = "budgetbuddy"
+password = "123Budget"
